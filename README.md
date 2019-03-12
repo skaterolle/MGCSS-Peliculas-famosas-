@@ -1,2 +1,2 @@
-# MGCSS-Peliculas-famosas-
-MGCSS – Colaborando en un proyecto 
+# MGCSS-Peliculas-famosas
+MGCSS – Añade tus peliculas favoritas !
