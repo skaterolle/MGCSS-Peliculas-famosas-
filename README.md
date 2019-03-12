@@ -1,2 +1,2 @@
 # MGCSS-Peliculas-famosas
-MGCSS – Añade tus peliculas favoritas !
+MGCSS – Añade 3 de tus peliculas favoritas en un nuevo txt!
